@@ -24,7 +24,8 @@ The application is deployed and can be accessed [here](https://6624ccfeb8e89884a
 1. Clone the repository:
 
     ```
-    git clone '[text](https://github.com/AtulPandey429/wineDataStatsManufac)'
+        git clone 'https://github.com/AtulPandey429/wineDataStatsManufac'
+
     ```
 
 2. Navigate into the project directory:
