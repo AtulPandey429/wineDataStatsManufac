@@ -15,7 +15,9 @@ This project is a web application for displaying statistics on wine data. It pro
 - If new types of alcohol are added, the application dynamically creates additional classes. For instance, if there are initially 3 types of alcohol, there will be 3 corresponding classes. Upon adding an extra type, a new class (e.g., class4) is automatically generated as a new column.
 
 
+## Deployment
 
+The application is deployed and can be accessed [here](https://6624ccfeb8e89884a4410065--polite-axolotl-31646f.netlify.app/).
 
 ## Installation
 
