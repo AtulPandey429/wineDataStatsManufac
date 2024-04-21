@@ -11,18 +11,11 @@ This project is a web application for displaying statistics on wine data. It pro
 ![UI Preview](/image.png)
 
 ## NOTE:
-<<<<<<< HEAD
 - When calculating mode, some values may have the same frequency even after rounding to 3 decimal places. In such cases, all values with the same frequency are displayed.
 - If new types of alcohol are added, the application dynamically creates additional classes. For instance, if there are initially 3 types of alcohol, there will be 3 corresponding classes. Upon adding an extra type, a new class (e.g., class4) is automatically generated as a new column.
-=======
-    -When calculating mode, some values may have the same frequency even after rounding to 3 decimal places.
-      In such cases, all values with the same frequency are displayed.
-    - If new types of alcohol are added, the application dynamically creates additional classes. For instance,
-      if there are initially 3 types of alcohol, there will be 3 corresponding classes. Upon adding an extra type,
-      a new class (e.g., class4) is automatically generated as a new column..
 
 
->>>>>>> b9dae4229372a93ecd2145430477e0d97c73e695
+
 
 ## Installation
 
